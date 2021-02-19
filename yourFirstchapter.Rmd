@@ -3,3 +3,4 @@
 Today's activity:
 
 ![Take a look at this](images/picture1.png){width="570"}
+Latest update: blah blah 
