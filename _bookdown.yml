@@ -1,0 +1,7 @@
+book_filename: YOUR BOOK TITLE
+output_dir: docs
+delete_merged_file: true
+rmd_files: ["index.Rmd",
+            "yourFirstchapter.Rmd",
+            "references.Rmd"]
+new_session: no

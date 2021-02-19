@@ -1,0 +1,13 @@
+--- 
+title: "YOUR BOOK TITLE"
+author: "AUTHOR NAME"
+date: "Last updated: `r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography:  ["references/references.bib"]
+biblio-style: apalike
+link-citations: yes
+description: ""
+---
+
+# Introduction {-}
